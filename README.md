@@ -1,5 +1,4 @@
 
-![React com Typescript: sistema de cadastro e autenticação]
 
 # React com Typescript: Sistema de cadastro e autenticação
 
